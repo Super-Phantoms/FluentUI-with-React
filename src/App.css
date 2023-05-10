@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+#root{background-color: rgba(225, 223, 221, .2);}
+body{margin: 0;font-family: 'Montserrat', sans-serif;padding: 0}
+.ms-Nav {background-color: '#fff';}
+.ms-Grid-col{padding-left: 0;margin-left: 0;}
+.ms-Viewport{margin: 0 1.5%;}
+.ms-FocusZone{padding: 0;}
+.notes {display: flex;justify-content: center;color: #000;font-weight: bold;font-family: 'Montserrat', sans-serif;margin-bottom: 0;padding: 30px 0;}
+.s-Grid-col:nth-child(2) .ms-Stack{background-image: radial-gradient(circle 248px at center, #16d9e3 0%, #30c7ec 47%, #46aef7 100%) !important;}
+.s-Grid-col:nth-child(3) .ms-Stack{background-image: linear-gradient(to top, #0ba360 0%, #3cba92 100%) !important;}
+a{display: inline-block;}
+.header-menu{display: flex;flex-wrap: wrap;padding: 0;margin-bottom: 0;list-style: none;margin-top: 18px;}
+.header-menu li{list-style: none;display: inline-block;}
+.header-menu li a{font-size: 18px;color: #ef4d3e;text-decoration: none;padding: 0 10px;font-weight: 600;position: relative;}
+.header-menu li a:after{content: '';bottom: -4px;width: 0;height: 1px;background-color: #0e2541;position: absolute;transition: all .5s ease 0s;left: 10px;}
+.header-menu li a:hover:after{width: 82%;}
+.profile_section{position: absolute;top: 14px;right: 30px;}
+.link-136:hover, .link-136:hover .ms-Button-icon, .link-126:hover{color: rgb(239 77 62)}
