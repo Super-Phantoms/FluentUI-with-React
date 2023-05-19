@@ -9,6 +9,7 @@ This repo is home to 3 separate projects today. Combining Fluent UI React v9 com
 
 The following table will help you navigate the 3 projects and understand their differences.
 
+
 <!-- prettier-ignore-start -->
 |   | React Components (v9) | React (v8) | Web Components |
 |---| ----- | --------------- | -------------- |
@@ -26,6 +27,7 @@ The following table will help you navigate the 3 projects and understand their d
 
 > Why are there two React versions? Fluent UI v8 is still widely used. We encourage you to migrate to Fluent UI v9. See the [Migration overview](https://react.fluentui.dev/?path=/docs/concepts-migration-overview--page).
 
+
 ## FluentUI Insights
 
 [Fluent UI Insights](https://docs.microsoft.com/en-us/shows/fluent-ui-insights?utm_source=github) is a series that describes the design and decisions behind the Fluent UI design system.
@@ -37,6 +39,7 @@ The following table will help you navigate the 3 projects and understand their d
 |                                                                                                                          EP04: Foundational APIs                                                                                                                           |                                                                                                              EP05: Theming                                                                                                              |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | <a href="https://learn.microsoft.com/en-us/shows/fluent-ui-insights/fluent-ui-insights-apis-in-v9-slots-jsx-children-triggers?utm_source=github" target="_blank"><img src="ghdocs/medias/fluentui-ep04-preview.gif" alt="Watch EP04: Foundational APIs" width="240" /></a> | <a href="https://learn.microsoft.com/en-us/shows/fluent-ui-insights/fluent-ui-insights-theming-in-v9?utm_source=github" target="_blank"><img src="ghdocs/medias/fluentui-ep05-preview.gif" alt="Watch EP05: Theming" width="240" /></a> |
+
 
 ## Licenses
 
