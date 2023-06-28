@@ -1,0 +1,10 @@
+{
+    "header": {
+      "title": "Hello",
+      "subtitle": "World"
+    },
+    "cta": {
+      "awesome": "{{ things }} are awesome!",
+      "cats": "Cats"
+    }
+  }
